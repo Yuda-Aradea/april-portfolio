@@ -265,7 +265,7 @@ input {
 
 /*===== Home Section =====*/
 .home {
-  background: url('/assets/img/home-bg-april.png');
+  background: url('https://raw.githubusercontent.com/Yuda-Aradea/april-portfolio/main/assets/img/home-bg-april.png');
   background-size: cover;
   background-position: center center;
   height: 100vh;
